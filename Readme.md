@@ -6,4 +6,4 @@ qgis.ipynb: ligação do jupyter ao QGIS
 
 sql.ipynb: ligação do jupyter ao SQL
 
-[covid-pt-latest.gpkg](https://github.com/jgrocha/covid-pt): Geopackage que contém os Casos de Covid-19 mais recentes divulgados pela DGES para processamento. 
+[covid-pt-latest.gpkg](https://github.com/jgrocha/covid-pt): Geopackage que contém os Casos de Covid-19 mais recentes divulgados pela DGS para processamento. 
