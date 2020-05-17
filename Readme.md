@@ -1,9 +1,18 @@
-# Exercícios sobre COVID-19
+# Mapping of COVID-19 (coronavirus) data and Statistical Analysis
 
-Exercícios realizados sobre COVID-19 no âmbito da UC de Sistemas de Informação Geográfica.
+This project is a collection of Jupyter notebooks:
 
-qgis.ipynb: ligação do jupyter ao QGIS
+🗂️ [Mapping of COVID-19 data (.ipynb)](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Maps.ipynb)
 
-sql.ipynb: ligação do jupyter ao SQL
+🗂️ [Statistical Analysis of COVID-19 data (.ipynb)](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Stats.ipynb). 
 
-[covid-pt-latest.gpkg](https://github.com/jgrocha/covid-pt): Geopackage que contém os Casos de Covid-19 mais recentes divulgados pela DGS para processamento. 
+Due to rendering issues we advise the use of [`nbviewer.jupyter.org/`](https://nbviewer.jupyter.org/github/eduardavieira/epidemiologia/blob/master/COVID19-Project/Stats.ipynb) to visualize all graphics. 
+
+**Still a Project in Progress**
+
+
+## Dataset
+
+The Dataset is part of the [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/) repository on GitHub.
+
+For a full variables description consult ([`owid-covid-data-codebook.md`](https://github.com/owid/covid-19-data/tree/master/public/data/owid-covid-data-codebook.md)).
