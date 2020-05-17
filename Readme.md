@@ -6,7 +6,7 @@ This project is a collection of Jupyter notebooks:
 
 🗂️ [Statistical Analysis of COVID-19 data (.ipynb)](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Stats.ipynb). 
 
-Due to rendering issues we advise the use of [`nbviewer.jupyter.org/`](https://nbviewer.jupyter.org/github/eduardavieira/epidemiologia/blob/master/COVID19-Project/Stats.ipynb) to visualize all graphics. 
+Due to rendering issues we advise the use of [`nbviewer.jupyter.org`](https://nbviewer.jupyter.org/github/eduardavieira/epidemiologia/blob/master/COVID19-Project/Stats.ipynb) to visualize all graphics. 
 
 **Still a Project in Progress**
 
