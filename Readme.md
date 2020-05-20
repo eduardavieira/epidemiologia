@@ -16,7 +16,3 @@ Due to rendering issues we advise the use of [`nbviewer.jupyter.org`](https://nb
 The Dataset is part of the [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/) repository on GitHub.
 
 For a full variables description consult ([`owid-covid-data-codebook.md`](https://github.com/owid/covid-19-data/tree/master/public/data/owid-covid-data-codebook.md)).
-
-## Results
-
-![Prediction](https://github.com/eduardavieira/epidemiologia/tree/master/COVID19-Project/Figures/prediction_parametric_fitting.png)
