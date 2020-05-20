@@ -20,4 +20,4 @@ For a full variables description consult ([`owid-covid-data-codebook.md`](https:
 
 ## Results
 
-![Prediction](https://github.com/eduardavieira/epidemiologia/tree/master/COVID19-Project/Figures/prediction_parametric_fitting.png)
+![Prediction_Iceland](https://github.com/eduardavieira/epidemiologia/tree/master/COVID19-Project/Figures/prediction_parametric_fitting.png)
