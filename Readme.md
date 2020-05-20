@@ -19,4 +19,4 @@ For a full variables description consult ([`owid-covid-data-codebook.md`](https:
 
 ## Results
 
-![Casos China](https://github.com/eduardavieira/epidemiologia/tree/master/COVID19-Project/Figures/cases_China.png)
+![Prediction](https://github.com/eduardavieira/epidemiologia/tree/master/COVID19-Project/Figures/prediction_parametric_fitting.png)
