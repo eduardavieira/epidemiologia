@@ -29,7 +29,7 @@ The Statistical Analysis allowed us to achieve this goal.
 
 ### Mapping
 
-In the [Maps.ipynb notebook](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Maps.ipynb) was created the Map in the Figure below, where it is possible to consult the a map that contains COVID-19 death cases across the world.
+In the Figure below it is possible to consult the map that contains COVID-19 death cases across the world.
 
 ![death map](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/death_cases_map.png)
 
@@ -48,6 +48,38 @@ It is also worth noting that countries such as Portugal (second most population 
 
 ![bubble_65](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/bubble_aged65_deaths_per_million.png)
 
+In Figure below a bubble chart containing the 50 countries with the highest share of the population living in extreme poverty and the number of deaths per million of each country can be consulted.
+
+As we can see the poorest countries aren't the countries with the highest values of deaths per million.
+
+![bubble_poverty](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/bubble_extreme_poverty_deaths_per_thousand.png)
+
+In Figure below a bubble chart containing the 70 countries with the highest Gross domestic product at purchasing power parity (constant 2011 international dollars) - GDP per capita and the number of tests per thousand of each country can be consulted.
+
+It is possible to see that the countries with high GDP per capita do more tests per thousand and generally, low GDP per capita have do lower number of tests. With remarcable exceptions such as Bahrain. 
+
+![bubble_gdp](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/bubble_gdp_tests_per_thousand.png)
+
+In the Figure below it is possible to consult the evolution of COVID-19 cases in China, it is clear that the evolution of the curve is logistic.
+
+![cases_china](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/cases_China.png)
+
+In the Figure below it is possible to consult the evolution of COVID-19 death cases in Portugal.
+
+![deaths_portugal](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/death_cases_portugal.png)
+
 ### Parametric Curve Fitting of Iceland Cases
+
+The objective of curve fitting is to find the optimal combination of parameters that minimize the error.
+
+In the Figure below it is possible to consult the number of cases in Iceland (black dots) and the three models (logistic-blue, exponential-green and linear-red) attempting to fit the Iceland curve. It is clear that the best model is the logistic.
+
+![curve_1](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/prediction_curve_1.png)
+
+The curve of new cases adjusts to a Gaussian function, see Figure below.
+
+![new_cases](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/prediction_curve_2.png)
+
+The result of finding the optimal parameters (values of coefficients that minimize the fitting error) for the four models can be consulted in the Figure below. 
 
 ![Prediction Iceland](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/prediction_parametric_fitting.png)
