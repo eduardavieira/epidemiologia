@@ -31,7 +31,7 @@ The Statistical Analysis allowed us to achieve this goal.
 
 In the Figure below it is possible to consult the map that contains COVID-19 death cases across the world.
 
-![death map](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/death_cases_map.png)
+![death map](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/death_cases_map.png?raw=true)
 
 
 ### Statistical Analysis
