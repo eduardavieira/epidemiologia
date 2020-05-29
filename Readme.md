@@ -8,7 +8,7 @@ This project is a collection of Jupyter notebooks:
 
 🗂️ [Parametric Curve Fitting for Iceland(.ipynb)](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Forecasting.ipynb). 
 
-Due to rendering issues we advise the use of [`nbviewer.jupyter.org`](https://nbviewer.jupyter.org/github/eduardavieira/epidemiologia/blob/master/COVID19-Project/Stats.ipynb) to visualize all graphics or to consult the [Figures link](https://github.com/eduardavieira/epidemiologia/tree/master/COVID19-Project/Figures). 
+Due to rendering issues we advise the use of [`nbviewer.jupyter.org`](https://nbviewer.jupyter.org/github/eduardavieira/epidemiologia/blob/master/COVID19-Project/Statistics.ipynb) to visualize all graphics or to consult the [Figures link](https://github.com/eduardavieira/epidemiologia/tree/master/COVID19-Project/Figures). 
 
 
 ## Dataset
