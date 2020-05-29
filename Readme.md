@@ -4,7 +4,9 @@ This project is a collection of Jupyter notebooks:
 
 🗂️ [Mapping of COVID-19 data (.ipynb)](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Maps.ipynb)
 
-🗂️ [Statistical Analysis of COVID-19 data and Parametric Curve Fitting(.ipynb)](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Stats.ipynb). 
+🗂️ [Statistical Analysis of COVID-19 data(.ipynb)](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Statistics.ipynb). 
+
+🗂️ [Parametric Curve Fitting for Iceland(.ipynb)](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Forecasting.ipynb). 
 
 Due to rendering issues we advise the use of [`nbviewer.jupyter.org`](https://nbviewer.jupyter.org/github/eduardavieira/epidemiologia/blob/master/COVID19-Project/Stats.ipynb) to visualize all graphics or to consult the [Figures link](https://github.com/eduardavieira/epidemiologia/tree/master/COVID19-Project/Figures). 
 
@@ -78,6 +80,10 @@ The curve of new cases adjusts to a Gaussian function, see Figure below.
 
 ![new_cases](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/prediction_curve_2.png?raw=true)
 
-The result of finding the optimal parameters (values of coefficients that minimize the fitting error) for the four models can be consulted in the Figure below. 
+The result of finding the optimal parameters (values of coefficients that minimize the fitting error) for the logistic model to forecast the number of cases can be consulted in the Figure below. 
 
 ![Prediction Iceland](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/prediction_parametric_fitting.png?raw=true)
+
+The forecasting for the number of new cases is the result of finding the optimal parameters (values of coefficients that minimize the fitting error) for the Gaussian model, consult Figure below.
+
+![Prediction Iceland](https://github.com/eduardavieira/epidemiologia/blob/master/COVID19-Project/Figures/prediction_parametric_fitting_new_cases.png?raw=true)
